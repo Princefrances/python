@@ -1,0 +1,15 @@
+print("Programmer: Prince Shane Frances")
+print("Date Created: July 6, 2023")
+print("Description of the Program: Laboratory Exercise")
+
+print("First Name: Prince Shane")
+print("Middle Name: Villanueva")
+print("Last Name: Frances")
+print("Course: Information Technology")
+print("Year: 3rd Year")
+print("Age: 21")
+print("Gender: Male")
+print("Civil Status: Single")
+print("Nationality: Filipino")
+
+print("Motto: To see is to Believe")
